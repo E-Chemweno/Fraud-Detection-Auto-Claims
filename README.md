@@ -60,5 +60,10 @@ The logistic regression model was evaluated on both training and testing data, s
 
 The high accuracy on both datasets indicates that the model generalizes well and is effective in predicting fraudulent claims.
 
+High Accuracy: The model is highly accurate overall, correctly classifying almost all transactions.
+Perfect Precision for Fraud: The model does not mistakenly classify legitimate transactions as fraud, which is crucial for reducing unnecessary investigations.
+High Recall for Fraud: The model successfully identifies a very high percentage of actual fraud cases, making it effective in detecting fraud.
+High F1 Score: The balance between precision and recall for fraud detection is excellent, indicating robust performance.
+
 
 Visualizations and performance metrics are included in the `/visualizations` folder.
