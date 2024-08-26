@@ -14,8 +14,10 @@ The confusion matrix provides a summary of the classification results of the mod
 - **False Positives (FP)**: Number of legitimate transactions incorrectly identified as fraud.
 - **False Negatives (FN)**: Number of fraudulent transactions incorrectly identified as legitimate.
 
-**Example**:
-![Confusion Matrix](confusion_matrix.png)
+
+![confusion_matrix](https://github.com/user-attachments/assets/0b0ddf06-bda3-4d7d-8678-6e199f4b4c50)
+
+
 
 ## 2. Heatmap
 
