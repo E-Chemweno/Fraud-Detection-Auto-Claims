@@ -26,8 +26,8 @@ The confusion matrix provides a summary of the classification results of the mod
 **Description**:
 The heatmap visualization is a graphical representation of data where individual values are represented by colors. It provides an intuitive way to understand the distribution and intensity of values across the confusion matrix.
 
-**Example**:
-![Heatmap](heatmap.png)
+![Correlation Heatmap](https://github.com/user-attachments/assets/67b9ed1b-05c3-429c-a96e-ae182738dbb7)
+
 
 ## 3. Pie Chart of Legitimate vs Fraud Transactions
 
@@ -36,5 +36,5 @@ The heatmap visualization is a graphical representation of data where individual
 **Description**:
 The pie chart visualizes the proportion of legitimate vs. fraudulent transactions. It shows how the total number of transactions is divided between these two categories, giving a clear overview of the dataset composition.
 
-**Example**:
-![Pie Chart](pie_chart.png)
+
+![Distribution of Fraudulent and Legitimate Claims](https://github.com/user-attachments/assets/b536f61b-8999-4c4c-96e8-c5e483abec86)
